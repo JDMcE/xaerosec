@@ -1,16 +1,16 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: xaerosec 
+description: "A hacker Blog"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "xaero"
+  email: ""
+  url: "https://xaerosec.com"
 
 baseurl: /
 
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 3
+paginate: 5
 paginate_path: /page/:num/
 
 defaults:
@@ -27,6 +27,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+google_analytics: "UA-166092968-1"
+
 # Custom variables
-owner : "SomeHacker"
+owner : "John McEwan"
 year : "2020"
