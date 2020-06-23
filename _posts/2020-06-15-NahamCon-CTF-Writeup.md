@@ -1,6 +1,6 @@
 [Nahamcon CTF](https://ctf.nahamcon.com/)
 
-Nahamcon CTF was an online CTF even held on June 12th-13th. Unfortunately I was only able to play for a few hours so I focused on the easier challenges.
+Nahamcon CTF was an online CTF even held on June 12th-13th. Unfortunately I was only able to dedicate a few hours so I focused on the easier challenges.
 
 The challenges covered will be:
 
